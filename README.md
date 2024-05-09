@@ -8,3 +8,5 @@ AI工具网站
 2 [coze](https://www.coze.com) 字节海外团队提供，最容易登录成功的(里面有很多模块画图，写作，还有免费的gpt4)
 
 3 [chatgpt](https://chat.openai.com/)   大名鼎鼎的openai团队开发的  [注册教程](https://www.cnblogs.com/cork/p/17061977.html)
+
+4 [Hugging Face](https://huggingface.co/)  Hugging Face是一家美国公司，专门开发用于构建机器学习应用的工具。该公司的代表产品是其为自然语言处理应用构建的transformers库，以及允许用户共享机器学习模型和数据集的平台
